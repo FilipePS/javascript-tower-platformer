@@ -1,0 +1,25 @@
+{
+  "name": "tower-platformer-multiplayer",
+  "version": "1.0.0",
+  "description": "Javascript Tower Platformer\r ===========================",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipePS/javascript-tower-platformer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipePS/javascript-tower-platformer/issues"
+  },
+  "homepage": "https://github.com/FilipePS/javascript-tower-platformer#readme"
+}
